@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sun-jiao
+- 👋 Hi, I’m @sun-jiao 
+- **My name is in Chinese order, surname first and given name last.**
 - 👀 I’m interested in Android & Flutter
 
 <!---
