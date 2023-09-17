@@ -2,7 +2,7 @@
 - 🇨🇳 **My name is in [Chinese order], the surname comes first and followed by the given name.**
 - 👀 I’m interested in Android & Flutter.
 - 🐦 Birder. => My [eBird] and [iNaturalist] profile.
-- <img src="https://github.com/sun-jiao/sun-jiao/assets/14086980/89ac9d90-eec8-4177-b20d-f93f8a955908" width="24" height="20" /> I have a cockatiel.
+- <img src="https://raw.githubusercontent.com/sun-jiao/sun-jiao/main/cockatiel-head.svg" width="20" height="20" /> I have a cockatiel.
 
 ![Sun Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-jiao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
