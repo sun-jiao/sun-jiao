@@ -4,7 +4,9 @@
 - 🐦 Birder. => My [eBird] and [iNaturalist] profile.
 - <img src="https://raw.githubusercontent.com/sun-jiao/sun-jiao/main/cockatiel-head.svg" width="20" height="20" /> I have a cockatiel.
 
-![Sun Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-jiao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Sun Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-jiao)
+
+![Sun Jiao's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=sun-jiao&show_icons=true&locale=en&layout=compact)
 
 <!---
 sun-jiao/sun-jiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
