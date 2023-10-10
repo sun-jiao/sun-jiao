@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sun Jiao @sun-jiao 
 - 🇨🇳 **My name is in [Chinese order], the surname comes first and followed by the given name.**
-- 👀 I’m interested in Android & Flutter.
+- 👀 I’m interested in Flutter, Android & AI.
 - 🐦 Birder. => My [eBird] and [iNaturalist] profile.
 - <img src="https://raw.githubusercontent.com/sun-jiao/sun-jiao/main/cockatiel-head.svg" width="20" height="20" /> I have a cockatiel.
+- I stand with 🇵🇸Palestine and 🇺🇦Ukraine.
 
 ![Sun Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-jiao)
 
