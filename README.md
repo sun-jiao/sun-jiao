@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sun Jiao @sun-jiao 
-- 🇨🇳 **My name is in [Chinese order], the surname comes first and followed by the given name.**
+- 👋 Hi, I’m Sun Jiao / Jiao Sun @sun-jiao 
 - 👀 I’m interested in Flutter, Android & AI.
 - 🐦 Birder. => My [eBird] and [iNaturalist] profile.
 - <img src="https://raw.githubusercontent.com/sun-jiao/sun-jiao/main/cockatiel-head.svg" width="20" height="20" /> I have a cockatiel.
